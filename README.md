@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vedant+%F0%9F%91%8B;AI+Engineer+%26+Developer;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I\\'m+Vedant+%F0%9F%91%8B;AI+Engineer+%26+Developer;Building+the+Future+with+AI" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-🔬 **Applied AI Engineer** passionate about transforming complex data into actionable insights and building intelligent systems that make a tangible difference. With a Master's in AI, I delve into cutting-edge research, particularly in **Natural Language Processing (NLP)** and **Generative AI**, focusing on enhancing the trustworthiness and effectiveness of AI solutions.
+🔬 **Applied AI Engineer** passionate about transforming complex data into actionable insights and building intelligent systems that make a tangible difference. With a Master\\\\'s in AI, I delve into cutting-edge research, particularly in **Natural Language Processing (NLP )** and **Generative AI**, focusing on enhancing the trustworthiness and effectiveness of AI solutions.
 
 🌟 I thrive on bridging the gap between theoretical advancements and real-world challenges. My work involves developing robust AI pipelines, from mitigating hallucination in large language models to optimizing machine learning performance and designing scalable data architectures.
 
@@ -101,37 +101,37 @@
 
 <div align="center">
 
-### 🤖 Multi-Agent Recommender System (MARS)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vedant-1012&repo=Multi-Agent-Recommender-System-MARS-&theme=tokyonight)](https://github.com/Vedant-1012/Multi-Agent-Recommender-System-MARS-)
+### 🤖 Multi-Agent Recommender System (MARS )
 
-**An intelligent, multi-agent chatbot for personalized movie recommendations and factual information**
-- 🎯 Leverages collaborative AI architecture with specialized agents
-- 🧠 Implements LLMs (Gemini models) for enhanced user interaction
-- 📊 Combines recommendation algorithms with conversational AI
+**An intelligent, multi-agent chatbot for personalized movie recommendations and factual information.**
+
+- 🎯 Leverages collaborative AI architecture with specialized agents.
+- 🧠 Implements LLMs (Gemini models) for enhanced user interaction.
+- 📊 Combines recommendation algorithms with conversational AI.
 
 ### 🛡️ Hallucination Mitigation Pipeline
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vedant-1012&repo=Hallucination-Mitigation-Agentic-PipeLine&theme=tokyonight)](https://github.com/Vedant-1012/Hallucination-Mitigation-Agentic-PipeLine)
 
-**Advanced pipeline for mitigating hallucinations in large language models**
-- 🔍 Implements cutting-edge techniques for AI reliability
-- ⚡ Optimizes model performance and trustworthiness
-- 🔬 Research-focused approach to AI safety
+**Advanced pipeline for mitigating hallucinations in large language models.**
+
+- 🔍 Implements cutting-edge techniques for AI reliability.
+- ⚡ Optimizes model performance and trustworthiness.
+- 🔬 Research-focused approach to AI safety.
 
 ### 🏭 Semiconductor Predictive Maintenance
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vedant-1012&repo=Semiconductor-Predictive-Maintenance-Solution&theme=tokyonight)](https://github.com/Vedant-1012/Semiconductor-Predictive-Maintenance-Solution)
 
-**AI-powered predictive maintenance solution for semiconductor manufacturing**
-- 📈 Machine learning for equipment failure prediction
-- 💰 Cost optimization through preventive maintenance
-- 🏭 Industrial IoT integration
+**AI-powered predictive maintenance solution for semiconductor manufacturing.**
+
+- 📈 Machine learning for equipment failure prediction.
+- 💰 Cost optimization through preventive maintenance.
+- 🏭 Industrial IoT integration.
 
 ### 🍎 MS.Potts NutriBot
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vedant-1012&repo=MS.Potts_NutriBot&theme=tokyonight)](https://github.com/Vedant-1012/MS.Potts_NutriBot)
 
-**Personalized AI nutrition assistant powered by Gemini and modern MLOps**
-- 🥗 Intelligent nutrition recommendations
-- 🤖 Conversational AI interface
-- 📱 Modern web application with responsive design
+**Personalized AI nutrition assistant powered by Gemini and modern MLOps.**
+
+- 🥗 Intelligent nutrition recommendations.
+- 🤖 Conversational AI interface.
+- 📱 Modern web application with responsive design.
 
 </div>
 
@@ -170,22 +170,22 @@
     <tr>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/trophy.png" alt="Experience"/>
-        <h4>2+ Years</h4>
+        <h4>3+ Years</h4>
         <p>AI/ML Experience</p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/code.png" alt="Projects"/>
-        <h4>50+ Projects</h4>
+        <h4>14 Projects</h4>
         <p>Completed</p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/star.png" alt="Stars"/>
-        <h4>100+ Stars</h4>
+        <h4>2 Stars</h4>
         <p>GitHub Recognition</p>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/color/48/000000/brain.png" alt="Models"/>
-        <h4>10+ Models</h4>
+        <h4>6 Models</h4>
         <p>Deployed in Production</p>
       </td>
     </tr>
@@ -210,17 +210,13 @@
   <a href="https://linkedin.com/in/vedant-thakkar-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/vedant_ai_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
   <a href="mailto:vedant.thakkar.ai@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+
   <a href="https://vedant-1012.github.io/PortFolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://medium.com/@vedant.ai.engineer" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
@@ -246,17 +242,7 @@ JavaScript   6 hrs 15 mins   ██████░░░░░░░░░░░
 TypeScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
 SQL          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░    8.4%
 Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    4.8%
-```
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Footer"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vedant-1012&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  **"Building the future, one algorithm at a time"** 🚀
+<!--END_SECTION:waka--> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Footer"/> </div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Vedant-1012&style=flat-square&color=blue" alt="Profile Views"/>
+"Building the future, one algorithm at a time" 🚀
 </div>
